@@ -1,5 +1,11 @@
 # Pcb-board-copyist
 Laser-based CNC Machine for Designing Printed Circuit Boards with Image Processing Technology
+![photo1653743967 (2)](https://user-images.githubusercontent.com/29107541/170829104-3e9cedb5-dcca-4401-851d-5c5430cda685.jpeg)
+![photo1653743967 (1)](https://user-images.githubusercontent.com/29107541/170829105-d53eea54-9a68-4874-bca4-7d62452d6e26.jpeg)
+![photo1653743967](https://user-images.githubusercontent.com/29107541/170829107-c803655e-9e4b-4c54-83c1-643e7c44d3cc.jpeg)
+
+
+
  -Project Idea
 It is a camera that takes a picture of the printed circuit that we want to replace, processes it through an image processing algorithm and converts it to G CODE (the language of working with CNC machines).
  -Items used:
